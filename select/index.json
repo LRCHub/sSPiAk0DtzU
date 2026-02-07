@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "忘却の翼",
+  "base_artist": "霜月はるか",
+  "createdAt": "2026-02-07T14:41:18.237322Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忘却の翼",
+      "artist": "Haruka Shimotsuki",
+      "has_synced": false,
+      "path": "select/01_忘却の翼_Haruka_Shimotsuki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忘却の翼",
+      "artist": "霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_忘却の翼_霜月はるか.txt"
+    }
+  ]
+}
